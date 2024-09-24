@@ -179,8 +179,7 @@ li span {
   }
   
   .todo-item {
-      
-    min-width: 30rem;
-    max-width: 30rem;
+    font-size: 1.6rem;
+    min-width: 33rem;
    }
 }
